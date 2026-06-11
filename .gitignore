@@ -1,0 +1,12 @@
+# Ignorar dependencias (ej. Node.js)
+node_modules/
+
+# Ignorar archivos compilados o temporales
+build/
+dist/
+*.log
+*.tmp
+
+# Ignorar archivos de configuración y credenciales
+.env
+.DS_Store
