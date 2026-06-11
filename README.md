@@ -14,7 +14,7 @@ API REST para gestión de tareas con autenticación JWT.
 
 ```bash
 git clone https://github.com/tu-usuario/todo-api-nodejs.git
-cd todo-api-nodejs
+cd todo-api
 npm install
 cp .env.example .env
 # Edita .env con tus valores
