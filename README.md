@@ -107,13 +107,6 @@ docker-compose down
    - `JWT_SECRET`
    - `NODE_ENV=production`
 
-### Railway
-
-1. Crea cuenta en [railway.app](https://railway.app)
-2. New Project → Deploy from GitHub
-3. Añade un servicio de MongoDB desde el marketplace de Railway
-4. Configura las variables de entorno en la sección Variables
-5. Railway detecta automáticamente el comando de inicio
 
 ### MongoDB Atlas (base de datos en producción)
 
